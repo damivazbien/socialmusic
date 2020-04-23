@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+button {
+    border-radius: 10px;
+    padding: 20px;
+    color:white;
+    border:none;
+    background-color: rgb(69,115,223);
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: 0.7;
+}
+
+.buttons-container button:not(:last-child){
+    margin-right: 5px;
+}
+
+.recommedation{
+    width: 40%;
+    margin:auto;
+    background-color: whitesmoke;
+    border-color: 20px;
+    margin-bottom: 10px;
+    padding: 40px;
+}
+
+.recommendation-name {
+    margin-right: 10px;
+}
+
+.recommendation-address{
+    color:rgb(156,156,156)
+}
+
+.recommendation-song {
+    font-weight: bolder;
+    font-size: 16pt;
+    margin-top: 10px;
+}
