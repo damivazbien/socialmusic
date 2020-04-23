@@ -25,6 +25,7 @@
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
     "style-loader": "^1.1.4",
+    "web3": "^1.2.6",
     "webpack": "^4.29.3",
     "webpack-cli": "^3.2.3"
   },
